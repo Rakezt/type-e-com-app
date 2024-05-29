@@ -42,7 +42,7 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
                 <CardMedia
                   component="img"
                   height="200"
-                  image={item.image}
+                  image={item?.image}
                   alt={item.name}
                 />
                 <Typography variant="body1">
