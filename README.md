@@ -1,5 +1,6 @@
 # Project Title: E-Commerce Web Application
 <img width="940" alt="image" src="https://github.com/Rakezt/type-e-com-app/assets/110081692/529b1b83-6d15-4dfd-b95d-60640776c70c">
+
 ## Description
 This project is a simple e-commerce web application built using React, TypeScript, and Material-UI. The application allows users to browse products, add items to their cart or wishlist, and manage their cart and wishlist. It also includes a user profile page and a help center feature.
 
