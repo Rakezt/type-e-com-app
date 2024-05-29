@@ -10,24 +10,6 @@ This project is a simple e-commerce web application built using React, TypeScrip
 - **User Profile**: View user profile information and access order history, cart, wishlist, and help center.
 - **Help Center**: Access support contact information.
 
-## Installation
-1. Clone the repository:
-```sh
-Copy code
-git clone https://github.com/yourusername/e-commerce-app.git
-2. Navigate to the project directory:
-```sh
-Copy code
-cd e-commerce-app
-3. Install dependencies:
-```sh
-Copy code
-npm install
-4. Start the development server:
-```sh
-Copy code
-npm start
-
 ##Usage
 Home Page: Browse the list of products.
 Product Details: Click on a product to view its details.
