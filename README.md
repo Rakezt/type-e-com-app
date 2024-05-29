@@ -1,46 +1,71 @@
-# Getting Started with Create React App
+# Project Title: E-Commerce Web Application
+<img width="940" alt="image" src="https://github.com/Rakezt/type-e-com-app/assets/110081692/529b1b83-6d15-4dfd-b95d-60640776c70c">
+## Description
+This project is a simple e-commerce web application built using React, TypeScript, and Material-UI. The application allows users to browse products, add items to their cart or wishlist, and manage their cart and wishlist. It also includes a user profile page and a help center feature.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- **Product Listing**: View a list of available products with details such as name, price, and image.
+- **Cart Management**: Add products to the cart, remove items, and adjust quantities.
+- **Wishlist Management**: Add products to the wishlist and remove items from it.
+- **User Profile**: View user profile information and access order history, cart, wishlist, and help center.
+- **Help Center**: Access support contact information.
 
-## Available Scripts
+## Installation
+1. Clone the repository:
+```sh
+Copy code
+git clone https://github.com/yourusername/e-commerce-app.git
+2. Navigate to the project directory:
+```sh
+Copy code
+cd e-commerce-app
+3. Install dependencies:
+```sh
+Copy code
+npm install
+4. Start the development server:
+```sh
+Copy code
+npm start
 
-In the project directory, you can run:
+##Usage
+Home Page: Browse the list of products.
+Product Details: Click on a product to view its details.
+Add to Cart: Click the "Add To Cart" button on a product card to add it to the cart.
+Add to Wishlist: Click the "Add To Wish List" button on a product card to add it to the wishlist.
+Cart: View and manage items in your cart by adjusting quantities or removing items.
+Wishlist: View and manage items in your wishlist.
+Profile: View your profile information and access your order history, cart, wishlist, and help center.
 
-### `npm start`
+##Styling
+App.css
+Contains custom CSS for the application.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##Dependencies
+React
+TypeScript
+Material-UI
+React Router
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+##Contributing
+Fork the repository.
+Create a new branch:
+```sh
+Copy code
+git checkout -b feature-branch
+Make your changes.
+Commit your changes:
+```sh
+Copy code
+git commit -m "Add some feature"
+Push to the branch:
+```sh
+Copy code
+git push origin feature-branch
+Open a pull request.
+License
+This project is licensed under the MIT License.
 
-### `npm test`
+Contact
+For questions or feedback, please contact [yoursweetnightmare@gmail.com].
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
