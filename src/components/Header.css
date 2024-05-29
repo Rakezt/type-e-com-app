@@ -1,0 +1,33 @@
+.home {
+  background-color: rgb(208, 208, 66);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 1rem 3rem;
+}
+
+.nav {
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(208, 208, 66);
+}
+
+.nav-icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.navlink {
+  text-decoration: none;
+  color: black;
+}
+
+.navlink:hover {
+  font-size: 1.6rem;
+  color: blue;
+}
+
+.ShoppingCartIcon:hover,
+.FavoriteIcon:hover {
+  color: blue;
+}

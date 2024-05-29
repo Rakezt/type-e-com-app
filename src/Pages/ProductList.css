@@ -1,0 +1,11 @@
+.productContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+}
+.productLink {
+  text-decoration: none;
+  color: blue;
+}
