@@ -9,7 +9,6 @@ import {
 } from "@mui/material";
 import React, { useState } from "react";
 import { useCart } from "../context/cartContext";
-import WishList from "./WishList";
 
 const Profile: React.FC = () => {
   const { cartItems, wishListItems } = useCart();
